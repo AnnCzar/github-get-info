@@ -31,7 +31,7 @@ Aplikacja pobiera listę **nie-forkowanych** repozytoriów dla danego użytkowni
 
 ### 1. Klonowanie repozytorium
 ```aiignore
-git clone <repository-url>
+git clone https://github.com/AnnCzar/github-get-info.git
 cd github-get-info
 ```
 
